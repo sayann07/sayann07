@@ -6,7 +6,7 @@
 
 - 📫 You can reach me at **connectwithsayanc@gmail.com**
 
-- 📄 Know about my experiences [aaa,com](aaa,com)
+- 📄 Know about my experiences by checking out my [Resume](https://docs.google.com/document/d/1SgQRdhkvZ9BrVQgCqDPV3ztfQiAzYlLSlwNTaEx2ZtQ/edit?usp=sharing)
 
 - ⚡ Fun fact **I am Spiderman!**
 
