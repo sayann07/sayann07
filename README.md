@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![MasterHead](https://raw.githubusercontent.com/sayann07/sayann07/main/download.gif)
 <h1 align="center">Hi 👋, I'm Sayan</h1>
 <h3 align="center">your friendly neighborhood developer from India</h3>
 
