@@ -3,7 +3,7 @@
 <h3 align="center">your friendly neighborhood developer from India</h3>
 <br>
 
-- 👨‍💻 All of my projects are available at my [**Portfolio Website**](https://sayann07.github.io/portfolioSayan/)
+- 👨‍💻 All of my projects are available at [**sayanchatterjee.in**](https://sayanchatterjee.in/)
 
 - 📫 You can reach me at **connectwithsayanc@gmail.com**
 
