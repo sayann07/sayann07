@@ -3,11 +3,11 @@
 <h3 align="center">your friendly neighborhood developer from India</h3>
 <br>
 
-- 👨‍💻 All of my projects are available at [xyz.com](xyz.com)
+- 👨‍💻 All of my projects are available at my [**Portfolio Website**](https://sayann07.github.io/portfolioSayan/)
 
 - 📫 You can reach me at **connectwithsayanc@gmail.com**
 
-- 📄 Know about my experiences by checking out my [Resume](https://docs.google.com/document/d/1SgQRdhkvZ9BrVQgCqDPV3ztfQiAzYlLSlwNTaEx2ZtQ/edit?usp=sharing)
+- 📄 Know about my experiences by checking out my [**Resume**](https://docs.google.com/document/d/1SgQRdhkvZ9BrVQgCqDPV3ztfQiAzYlLSlwNTaEx2ZtQ/edit?usp=sharing)
 
 - ⚡ Fun fact **I am Spiderman!**
 
